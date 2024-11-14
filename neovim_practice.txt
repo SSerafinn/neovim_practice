@@ -1,0 +1,42 @@
+# Neovim Practice File
+
+Welcome to the Neovim practice session! This file will help you learn and practice essential Neovim commands. Follow each question below and use the commands you've learned to navigate and edit this document.
+
+---
+
+## Section 1: Basic Navigation
+
+1. Move to the beginning of this line.
+2. Move to the end of this line.
+3. Find the word "practice" in this paragraph and place the cursor at the beginning of the word.
+
+---
+
+## Section 2: Inserting Text
+
+1. Add your name at the top of this file.
+2. Insert the following line below this section:
+
+   "Neovim is a powerful and modern text editor."
+
+---
+
+## Section 3: Editing Text
+
+1. Change "modern" to "versatile" in the sentence you just added.
+2. Delete this entire line.
+
+---
+
+## Section 4: Copying and Pasting
+
+1. Copy the sentence from Section 2 and paste it below.
+2. Copy the entire "Section 1: Basic Navigation" and paste it at the end of this document.
+
+---
+
+## Section 5: Saving and Exiting
+
+When you are done with this file:
+1. Save your changes.
+2. Close Neovim.
